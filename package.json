@@ -1,0 +1,20 @@
+{
+    "title": "Enlightend",
+    "name": "enlightend-theme",
+    "description": "This theme is based on the enlightened color scheme from Sublime Text.",
+    "version": "0.1.0",
+    "author": "Amin Ullah Khan <aminullah@outlook.com> (https://github.com/sprintr)",
+    "homepage": "https://github.com/sprintr/brackets-enlightend-theme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sprintr/brackets-enlightend-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
