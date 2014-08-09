@@ -1,17 +1,17 @@
-Enlightend Brackets Theme
-==========================
-Enlightend theme for Brackets based on the same theme for Sublime Text.
+Enlightend Theme for Brackets
+=============================
+Enlightend theme for Brackets.
 
-Screenshot
+Screenshots
 ----------
-![HTML](screenshot-html.png)
+![HTML](screenshots/html.png)
 
-![CSS](screenshot-css.png)
+![CSS](screenshots/css.png)
+
+![JS](screenshots/js.png)
 
 How To Install
 --------------
-**Note:** Works with Brackets release 0.42 and above.
-
 1.	Open `File` > `Extension Manager`.
 2.	Select `Available` Tab.
 3.	Search for `Enlightend`.
