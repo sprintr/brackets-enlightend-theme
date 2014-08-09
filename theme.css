@@ -3,12 +3,12 @@ span.cm-comment						{ color: #616671; }
 span.cm-atom						{ color: #ae81ff; }
 span.cm-number						{ color: #f12aff; }
 span.cm-property					{ color: #20c8e8; }
-.doctype-css span.cm-property		{ color: #20c8e8; background-color: #003b3b; }
 span.cm-attribute					{ color: #62aee0; }
 span.cm-keyword						{ color: #2499da; }
 span.cm-string						{ color: #4be32d; }
 span.cm-variable					{ color: #20c8e8; background-color: #003b3b; }
 span.cm-variable-2					{ color: #f8f8f2; }
+span.cm-variable-3					{ color: #f8f8f2; }				
 span.cm-qualifier					{ color: #62aee0; }
 span.cm-def							{ color: #20c8e8; }
 span.cm-bracket						{ color: #f8f8f2; }
@@ -20,8 +20,7 @@ span.cm-error						{ color: #f1248d; }
 .CodeMirror-focused .CodeMirror-activeline span.CodeMirror-nonmatchingbracket {
 	color: #F8F8F8 !important;
 }
-.CodeMirror,
-.CodeMirror .CodeMirror-scroll {
+.CodeMirror, .CodeMirror .CodeMirror-scroll {
 	background: #1b1b1b;
 	color: #f8f8f2;
 }
@@ -56,4 +55,10 @@ div.CodeMirror-selected {
 .CodeMirror-matchingtag {
 	background-color: transparent;
 	border-bottom: 1px dotted #09aa0e;
+}
+#image-holder, #not-editor {
+    background-color: #1b1b1b;
+}
+#image-holder {
+    color: #f8f8f2;
 }
